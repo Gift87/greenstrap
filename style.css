@@ -1,0 +1,145 @@
+.jumbotron {
+    text-align: center;
+}
+
+#navicon {
+    align-items: center;
+  
+}
+
+#boops {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    
+}
+
+#navbar-color {
+
+    background-color: white;
+}
+
+#video {
+    margin-bottom:27px;
+    padding:0px;
+}
+
+#feast {
+    align-content:center;
+    align-items: baseline;
+    max-width: 50px;
+    height: auto;
+    margin-top: 15px;
+}
+
+.class-container {
+    
+    align-items:center;
+}
+
+.sauce-image{
+   align-content:center;
+   margin-bottom:37px;
+width:700px;
+}
+
+#bottle-pattern {
+    height: 100px;
+    display: hidden; 
+   
+}
+
+.headline{
+    
+    text-align: center;
+    width: 800px;
+    font-size: 22px;
+   
+}
+
+.body-text{
+    line-height: 30px;
+    margin-top: 47px;
+    width:700px;
+    text-align:left;
+}
+
+.hot-ones{
+    
+    font-size:55px;
+    color:#ff4723;
+}
+
+
+
+#item{
+    align-items:center;
+    justify-content:center;
+    width:760px;
+    text-align: center;
+}
+  
+.first-logo{
+    margin-bottom:45px;
+}
+
+    .video-animation{
+    font-size: 27px;
+    color: #ff4723;
+    text-align: center;
+}
+
+
+#form{
+   align-items:center;
+   margin:0 auto;
+   width:500px;
+
+}
+
+.cta{
+    margin-top: 37px;
+    text-align:center;
+    font-size: 20px;
+    color: #ff4723;
+}
+
+.sub-footer{
+    align-items:center;
+    margin:0 auto;
+    text-align:center;
+    background-color:black;
+    width:100%;
+    margin-top:37px;
+
+}
+
+.gb-logo{
+    width: 500px;
+    margin:0px;
+}
+
+.copyright{
+    color:white;
+    margin-top:10px;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../Greenbar-bottle-pattern.png");
+    background-color: gray;
+    background-blend-mode: multiply;    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  * {
+      margin:0px;
+
+     
+  }
